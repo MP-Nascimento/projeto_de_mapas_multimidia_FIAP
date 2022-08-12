@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MapAndMultMedia</string>
+    <string name="recuperando_fotos_com_imageview">Recuperando Fotos com ImageView</string>
+    <string name="ultilizando_mapas_map_view">Ultilizando Mapas: MapView</string>
+    <string name="localiza_o_do_usuario_com_location_api">Localização do Usuario com Location API</string>
+    <string name="rotas">Rotas</string>
+    <string name="pontos_interesse">Pontos Interesse</string>
+    <string name="usando_webview_em_seus_apps">Usando Webview em seus Apps</string>
+    <string name="sons_audiomaneger">Sons: AudioManeger</string>
+    <string name="videos_mediaplayer">Videos: MediaPlayer</string>
+    <string name="anima_o_em_views_com_view_animations">Animação em Views com View Animations</string>
 </resources>
